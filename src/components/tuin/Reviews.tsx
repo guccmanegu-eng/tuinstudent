@@ -5,20 +5,20 @@ const REVIEWS = [
   {
     quote:
       "Onze tuin stond behoorlijk vol onkruid. In één middag was alles netjes en de student werkte gewoon door tot het af was.",
-    name: "Marleen",
-    city: "Utrecht",
+    name: "Diana",
+    city: "Venhuizen",
   },
   {
     quote:
       "Fijn contact, duidelijke prijs en een nette haag. We plannen nu elke maand een vast moment in.",
-    name: "Peter",
-    city: "Amersfoort",
+    name: "Mirella",
+    city: "Hoogkarspel",
   },
   {
     quote:
       "Prettige jonge gast, dacht goed mee over wat er moest gebeuren. Scheelt ons enorm veel tijd in het weekend.",
-    name: "Sanne",
-    city: "Zwolle",
+    name: "Ed Verwoest",
+    city: "Medemblik",
   },
 ];
 
